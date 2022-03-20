@@ -1,0 +1,27 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "nitishjeet7",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://nitishjeet7.ml",
+    "short_name": "nj7",
+    "theme_color": "#63A3F2",
+    "description": "Personal Portfolio Website",
+    "orientation": "any",
+    "background_color": "#FFFFFF",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/thumbnail.webp",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/thumbnail.webp",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
